@@ -1,2 +1,1 @@
 # BankingTechnology
-PhD project 
